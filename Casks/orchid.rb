@@ -1,6 +1,6 @@
 cask "orchid" do
-  version "0.0.2"
-  sha256 "85f0f0faab4ed76922718cf95203f87fc1f7c5c0bb0137b12ceb443827abb8d5"
+  version "0.0.3"
+  sha256 "d6cb1178c801e2a58c5f116bcd39038ceb1bf1d02805ef4d6ef70fea6616a8fc"
 
   url "https://github.com/blossom-slopware/orchid/releases/download/v#{version}/Orchid-#{version}.zip"
   name "Orchid"
